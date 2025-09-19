@@ -6,8 +6,8 @@ This project contains automated API tests for the Bookstore API (https://fakeres
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
-   cd BookstoreAPIAutomation
+   git clone https://github.com/gpen3v/bookstore-api-playwright.git
+   cd bookstore-api-playwright
    ```
 2. **Install dependencies:**
    ```sh
